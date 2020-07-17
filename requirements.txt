@@ -1,0 +1,4 @@
+# Matches (mostly) library versions on EMR ("sudo pip-3.4 freeze")
+pandas==0.21.0
+numpy==1.14.0
+pytz==2017.3
